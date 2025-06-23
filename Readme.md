@@ -14,4 +14,4 @@
 - Screenshot was taken.
 
 ## Screenshot
-
+![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20screen.png)
