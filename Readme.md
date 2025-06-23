@@ -17,4 +17,4 @@
 
 ![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20screen.png)
 
-![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20screen.png)
+![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20Screen-2.png)
