@@ -1,4 +1,4 @@
-# Skill-Test Frontend Skill Test
+# Skill-Test - Front-end 
 
 - Project cloned.
 - Backend and frontend npm installs were made.
@@ -14,4 +14,7 @@
 - Screenshot was taken.
 
 ## Screenshot
+
+![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20screen.png)
+
 ![](https://github.com/Rasime-Dumlupunar/Skill-test-students/blob/main/Skill-Test%20screen.png)
